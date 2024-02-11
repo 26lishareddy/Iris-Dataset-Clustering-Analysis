@@ -29,5 +29,5 @@ Prediction Process :The K-means clustering algorithm is an unsupervised learning
 Result: 1) Data points are plotted based on their true labels.
         2)Centroids of the clusters are marked with large black circles.
         3)The diagonal elements represent the number of data points that were correctly assigned to their true class.
-        5)Off-diagonal elements indicate misclassifications.
-        6)The accuracy score gives the overall accuracy of the clustering.
+        4)Off-diagonal elements indicate misclassifications.
+        5)The accuracy score gives the overall accuracy of the clustering.
